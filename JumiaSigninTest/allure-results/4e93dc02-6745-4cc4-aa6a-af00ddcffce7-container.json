@@ -1,0 +1,1 @@
+{"uuid":"4e93dc02-6745-4cc4-aa6a-af00ddcffce7","name":"JumiaSignupTest","children":["119f3a1d-ec45-4bf6-9847-5acaf0d08198"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1663930030549,"stop":1663930030784}],"start":1663930007264,"stop":1663930030786}
